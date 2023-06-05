@@ -4,7 +4,7 @@ int main() {
   int pin = 0;
   int tries = 0;
 
-  printf("BANK OF CODECADEMY:\n");
+  printf("BANK OF JOE:\n");
   printf("Enter your PIN: ");
   scanf("%d", &pin);
 
